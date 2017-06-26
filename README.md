@@ -17,6 +17,10 @@
 - Dictionaries
 - More on Looping techniques
 
+### Requests
+- Scheduler
+- Email
+
 
 ## Topics to cover
 - Classes
