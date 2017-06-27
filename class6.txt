@@ -1,0 +1,30 @@
+# Go to directory
+$ cd $HOME/Library/LaunchAgents
+
+#check which python you use
+$ which python
+
+# create a .plist file
+$ vi com.joe.crontabtest.plist
+
+
+# Tell OS X about this new file
+$ launchctl load com.joe.crontabtest.plist
+
+# You can turn it off
+$ launchctl unload com.joe.crontabtest.plist
+
+
+# We need to run selenium "headless"
+# Go to http://phantomjs.org/download.html
+# download the driver for mac.
+
+$ cd
+$ cd bin
+$ open .
+
+# put the phantomjs driver in directory
+
+# Now let's create a program to test
+
+
