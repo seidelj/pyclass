@@ -8,10 +8,13 @@ $ which python
 $ vi com.joe.crontabtest.plist
 
 
-# Tell OS X about this new file
+# write a python script that sends an email
+
+
+# Tell OS X to add the plist to tasks
 $ launchctl load com.joe.crontabtest.plist
 
-# You can turn it off
+# Remove it from tasks
 $ launchctl unload com.joe.crontabtest.plist
 
 
@@ -26,5 +29,7 @@ $ open .
 # put the phantomjs driver in directory
 
 # Now let's create a program to test
+
+# for homework.  Create a program that combines all these things!
 
 
