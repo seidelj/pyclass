@@ -7,23 +7,21 @@
 - break, continue, else on loops
 - pass statements
 - defining methods/functions
-- An introdution to exception handling
 
 ## Class 6 (Data Structures)
-- More on lists
+- An introduction to exception handling
+- Scheduling tasks (launchd)
+- Email with Python
+- Running selenium headlessly (PhantomJS)
+
+## Topics to cover
+- [ ] Classes
+- [ ] Numpy
+- [ ] Pandas
+- [ ] "hello world" of Machine Learning
+- [ ] More on lists
   - methods
   - as stacks
   - comprehensions
-- Dictionaries
-- More on Looping techniques
-
-### Requests
-- Scheduler
-- Email
-
-
-## Topics to cover
-- Classes
-- Numpy
-- Pandas
-- "hello world" of Machine Learning
+- [ ] Dictionaries
+- [ ] More on Looping techniques
