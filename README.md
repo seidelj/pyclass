@@ -14,14 +14,16 @@
 - Email with Python
 - Running selenium headlessly (PhantomJS)
 
+## Class 7 (More on Lists, Dictionaries, Classes)
+- More on lists
+  - methods
+  - comprehensions
+- Dictionaries
+- Classes
+
 ## Topics to cover
-- [ ] Classes
 - [ ] Numpy
 - [ ] Pandas
 - [ ] "hello world" of Machine Learning
-- [ ] More on lists
-  - methods
-  - as stacks
-  - comprehensions
-- [ ] Dictionaries
 - [ ] More on Looping techniques
+- [ ] Write our own search class
