@@ -27,3 +27,4 @@
 - [ ] "hello world" of Machine Learning
 - [ ] More on Looping techniques
 - [ ] Write our own search class
+- [ ] the `__init__.py` file
