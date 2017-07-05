@@ -24,6 +24,7 @@
 ## Topics to cover
 - [ ] Numpy
 - [ ] Pandas
+- [ ] An example using Anscombe's Quartet
 - [ ] "hello world" of Machine Learning
 - [ ] More on Looping techniques
 - [ ] Write our own search class
