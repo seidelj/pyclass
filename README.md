@@ -21,6 +21,8 @@
 - Dictionaries
 - Classes
 
+## Class 8 (Hello world of Machine learning)
+
 ## Topics to cover
 - [ ] Numpy
 - [ ] Pandas
